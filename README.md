@@ -6,7 +6,7 @@
 <br>
 
 
-<p style="color: green;">Pinned</p>
+<p>Pinned</p>
 <p>
   <a href="https://github.com/keshprad/Algorithms">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=keshprad&repo=Algorithms&bg_color=303030&text_color=ffffff&icon_color=a37ed3&title_color=a37ed3&show_owner=true"/>
