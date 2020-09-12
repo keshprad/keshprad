@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/keshprad/keshprad/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=keshprad&title_color=a37ed3&text_color=ffffff&bg_color=303030&icon_color=a37ed3&show_icons=true&include_all_commits=true&cache_seconds=1800&count_private=true&hide=stars,issues">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=keshprad&title_color=f50057&text_color=ffffff&bg_color=302f2f&icon_color=f50057&show_icons=true&include_all_commits=true&cache_seconds=1800&count_private=true&hide=stars,issues">
   </a>
 </p>
 
