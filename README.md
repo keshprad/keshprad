@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm keshprad</a>
-	
-<a href="https://www.keshprad.ml/">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshprad&title_color=f50057&text_color=ffffff&bg_color=302f2f&icon_color=f50057&show_icons=true&cache_seconds=1800&count_private=true&hide=stars,issues">
-</a>
+# Hi, I'm Keshav
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshprad&title_color=f50057&text_color=ffffff&bg_color=302f2f&icon_color=f50057&show_icons=true&cache_seconds=1800&count_private=true&hide=stars,issues">
 
 </div>
 
